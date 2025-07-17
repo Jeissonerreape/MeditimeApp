@@ -1,0 +1,139 @@
+<resources>
+
+    <style name="Widget.Theme.MeditimeApp.ActionBar.Fullscreen" parent="Widget.AppCompat.ActionBar">
+        <item name="android:background">@color/black</item>
+    </style>
+
+    <style name="Widget.Theme.MeditimeApp.ButtonBar.Fullscreen" parent="">
+        <item name="android:background">#00000000</item>
+        <item name="android:buttonBarStyle">?android:attr/buttonBarStyle</item>
+    </style>
+
+
+    <style name="RectangularButtonStyle" parent="Widget.MaterialComponents.Button">
+        <item name="cornerFamilyTopLeft">rounded</item>
+        <item name="cornerFamilyBottomLeft">rounded</item>
+        <item name="cornerSizeTopLeft">50%</item>
+        <item name="cornerSizeBottomLeft">50%</item>
+        <item name="height">60dp</item> <!-- Bordes rectangulares -->
+    </style>
+
+    <style name="RectangularButtonStyle200" parent="Widget.MaterialComponents.Button">
+        <item name="cornerFamilyTopLeft">rounded</item>
+        <item name="cornerFamilyBottomLeft">rounded</item>
+        <item name="cornerSizeTopLeft">80%</item>
+        <item name="cornerSizeBottomLeft">80%</item>
+        <item name="height">70dp</item> <!-- Bordes rectangulares -->
+    </style>
+    <style name="RectangularButtonStyle002" parent="Widget.MaterialComponents.Button.UnelevatedButton">
+        <item name="cornerFamilyTopLeft">rounded</item>
+        <item name="cornerFamilyBottomLeft">rounded</item>
+        <item name="cornerSizeTopLeft">50%</item>
+        <item name="cornerSizeBottomLeft">50%</item>
+    </style>
+
+
+
+    <style name="RectangularButtonStyle2" parent="Widget.MaterialComponents.Button">
+        <item name="cornerFamilyTopLeft">rounded</item>
+        <item name="cornerFamilyBottomLeft">rounded</item>
+        <item name="cornerSizeTopLeft">50%</item>
+        <item name="cornerSizeBottomLeft">50%</item>
+
+        <item name="height">50dp</item> <!-- Bordes rectangulares -->
+    </style>
+
+
+    <style name="RectangularButtonStyleAnim" parent="Widget.MaterialComponents.Button">
+        <item name="cornerFamilyTopLeft">rounded</item>
+        <item name="cornerFamilyBottomLeft">rounded</item>
+        <item name="cornerSizeTopLeft">90%</item>
+        <item name="cornerSizeBottomLeft">90%</item>
+        <item name="elevation">10dp</item>
+        <item name="height">90dp</item> <!-- Bordes rectangulares -->
+    </style>
+
+    <style name="CustomTextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <!-- Cambiar el tamaño y color del texto de la etiqueta flotante -->
+        <item name="hintTextAppearance">@style/CustomHintTextAppearance</item>
+    </style>
+
+
+
+    <style name="CustomHintTextAppearance" parent="TextAppearance.Design.Hint">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/custom_hint_color</item>
+    </style>
+
+    <style name="CustomHintTextAppearance2" parent="TextAppearance.Design.Hint">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/custom_hint_color</item>
+    </style>
+
+    <style name="redondearimagenshaeable20">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">10%</item>
+    </style>
+
+    <style name="redondearimagenshaeable">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <style name="redondearimagenshaeablemenos">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">20%</item>
+    </style>
+
+
+    <style name="cuadrarimagenes">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">20%</item>
+    </style>
+
+    <style name="cuadrarimagenes2">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">10%</item>
+    </style>
+
+
+    <style name="SpinnerStyle" parent="Widget.AppCompat.ListView.DropDown">
+        <item name="android:divider">#F2434343</item>
+        <item name="android:dividerHeight">0.5dp</item>
+        <item name="android:background">@color/white</item>
+
+    </style>
+
+    <style name="ToolbarTitleStyle" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textSize">16sp</item> <!-- Ajusta el tamaño -->
+        <item name="android:textColor">@color/white</item> <!-- Color del texto -->
+    </style>
+
+    <style name="CirculoCodigo">
+        <item name="android:layout_width">30dp</item>
+        <item name="android:layout_height">30dp</item>
+        <item name="android:layout_margin">6dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/circle_empty2</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+
+    <style name="EstiloBoton">
+        <item name="android:layout_width">80dp</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:layout_margin">8dp</item>
+        <item name="android:backgroundTint">#F0F0F0</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+
+    <style name="NavigationDrawerTextStyle" parent="TextAppearance.AppCompat.Body1">
+        <item name="android:textSize">16sp</item> <!-- Cambia el tamaño según tu gusto -->
+    </style>
+
+
+</resources>

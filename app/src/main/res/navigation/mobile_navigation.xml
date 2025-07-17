@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_agendar">
+
+    <fragment
+        android:id="@+id/nav_agendar"
+        android:name="com.metsoul_dev.meditimeapp.ui.agendar.AgendarFragment"
+        android:label="@string/menu_agendar"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_historial"
+        android:name="com.metsoul_dev.meditimeapp.ui.historial.HistorialFragment"
+        android:label="@string/menu_historial"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_micuenta"
+        android:name="com.metsoul_dev.meditimeapp.ui.micuenta.MiCuentaFragment"
+        android:label="@string/menu_micuenta"
+        tools:layout="@layout/fragment_slideshow" />
+
+
+    <fragment
+        android:id="@+id/nav_politicas"
+        android:name="com.metsoul_dev.meditimeapp.ui.politicas.PoliticasFragment"
+        android:label="@string/menu_politicas"
+        tools:layout="@layout/fragment_politicas" />
+
+
+
+    <fragment
+        android:id="@+id/nav_cerrar"
+        android:name="com.metsoul_dev.meditimeapp.ui.z_cerrar.CerrarFragment"
+        android:label="@string/menu_cerrar"
+        tools:layout="@layout/fragment_cerrar" />
+</navigation>

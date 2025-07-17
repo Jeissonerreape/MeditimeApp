@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary">#4CAF50</color>
+    <color name="primary_variant">#388E3C</color>
+    <color name="secondary">#2196F3</color>
+    <color name="secondary_variant">#1976D2</color>
+    <color name="background">#F8F9FA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_secondary">#FDFDFD</color>
+    <color name="on_background">#212529</color>
+    <color name="on_surface">#212529</color>
+    <color name="error">#FF0303</color>
+    <color name="on_error">#FFFFFF</color>
+    <color name="divider">#CED4DA</color>
+    <color name="grey_300">#E0E0E0</color>
+    <color name="grey_500">#9E9E9E</color>
+    <color name="grey_700">#616161</color>
+    <color name="navbar_background">@color/primary</color>
+    <color name="navbar_text">@color/on_primary</color>
+    <color name="button_background">@color/secondary</color>
+    <color name="button_text">@color/on_secondary</color>
+    <color name="statusbar_background">@color/primary_variant</color>
+    <color name="card_background">@color/surface</color>
+    <color name="chip_background">@color/grey_300</color>
+
+    <color name="light_blue_600">#FF039BE5</color>
+
+    <color name="light_blue_900">#FF01579B</color>
+
+    <color name="light_blue_A200">#FF40C4FF</color>
+
+    <color name="light_blue_A400">#FF00B0FF</color>
+
+    <color name="black_overlay">#66000000</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorverde2">#D2F09E</color>
+    <color name="guinda3">#02629C</color>
+
+    <color name="guinda">#0277BD</color>
+    <color name="guinda2">#9F1C46</color>
+
+    <color name="colorazul">#037EB9</color>
+    <color name="colorverde1">#94DC79</color>
+
+    <color name="colorverde3">#47CB8F</color>
+    <color name="colorazul1">#1D2E79</color>
+    <color name="colorazul2">#2A428B</color>
+
+    <color name="custom_hint_color">#3E3E3E</color>
+
+
+    <color name="custom_background_color">#FFFFFF</color>
+    <color name="primario2">#016E81</color>
+
+    <color name="colornavbar">#B6CB90</color>
+    <color name="colorstatusbar">#518D8B</color>
+
+
+    <color name="principal_naranja">#0097A7</color>
+    <color name="principal_verde">#689F38</color>
+    <color name="principal_azul">#0097A7</color>
+
+
+    <color name="colorTexto">#000000</color>
+    <color name="colorTexto2">#292929</color>
+    <color name="colorIndicador">@color/guinda3</color>
+    <color name="colorBorde">#FFFFFF</color>
+
+
+    <color name="colorTextom">#000000</color>
+    <color name="colorTexto2m">#292929</color>
+    <color name="colorIndicadorm">@color/principal_naranja</color>
+    <color name="colorBordem">#B8B8B8</color>
+</resources>

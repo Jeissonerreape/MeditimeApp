@@ -1,0 +1,129 @@
+<resources>
+    <string name="app_name">MeditimeApp</string>
+    <string name="navigation_drawer_open">Abrir menú de navegación</string>
+    <string name="navigation_drawer_close">Cerrar menú de navegación</string>
+    <string name="nav_header_title">MediTimeAPP</string>
+    <string name="nav_header_subtitle">medicotiempo49@gmail.com</string>
+    <string name="nav_header_desc">Encabezado de navegación</string>
+    <string name="action_settings">Configuración</string>
+
+    <string name="menu_home">Inicio</string>
+
+    <string name="menu_anuncio">Mis Anuncios</string>
+    <string name="menu_adopcion">Ofrecer en Adopción</string>
+    <string name="menu_adopcion2">Buscar en Adopción</string>
+    <string name="menu_pufrient">Publicar Pet Shop</string>
+    <string name="menu_puventserv">Publicar En Directorio Comercial</string>
+
+    <string name="menu_fausil">Fauna Silvestre</string>
+    <string name="menu_fausil_2">Fauna Silvestre</string>
+    <string name="menu_adquisiciones">Adquisiciones</string>
+    <string name="menu_adquisicionesv2">Ventas</string>
+    <string name="menu_lista_pet_shop">Pet Shop</string>
+    <string name="menu_lista_pet_friendly">Pet Friendly</string>
+
+    <string name="menu_lista_guia_home">Guía Comercial</string>
+
+    <string name="menu_perdido_1">Perdidos y Encontrados</string>
+    <string name="menu_resport_encontrados">Reportar Animal Encontrado</string>
+    <string name="menu_report_perdidos">Reportar Animal Perdido</string>
+
+    <string name="menu_cerrar">Cerrar sesión</string>
+    <string name="title_activity_fullscreen_splash"> </string>
+    <string name="dummy_button">Botón de prueba</string>
+    <string name="dummy_content">CONTENIDO DE PRUEBA</string>
+
+    <string name="link_signup2"><u>Registrarse</u></string>
+    <string name="text_signup">¿No tienes cuenta?</string>
+    <string name="link_signup">Registrarse</string>
+    <string name="title_activity_home">Inicio</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hola fragmento en blanco</string>
+
+    <string name="menu_vender">Venta de Ejemplares</string>
+
+    <string name="menu_vender_agregar">Vender</string>
+    <string name="menu_vender_editar">Editar</string>
+    <string name="menu_vender_detacar">Destacar</string>
+
+    <string name="menu_adopcion_agregar">Ofrecer en Adopción</string>
+    <string name="menu_adopcion_editar">Editar Adopción</string>
+
+    <string name="menu_petfriendly_agregar">Agregar Pet Shop</string>
+    <string name="menu_petfriendly_editar">Editar Pet Shop</string>
+
+    <string name="menu_petshop_agregar">Publicar</string>
+    <string name="menu_petshop_editar">Editar Publicacion</string>
+
+
+    <string name="menu_guia_uso">Guía de Uso</string>
+
+    <string name="menu_edit_cuenta">Editar Cuenta</string>">
+    <string name="boton_ubicacion">Subir Ubicación</string>
+    <string name="boton_ubicacion_otro">Ubicación Visto Por Ultima Vez</string>
+    <string name="boton_ubicacion_fauna">Ubicación</string>
+    <string name="boton_ubicacion_animal">Ubicación Del Animal</string>
+
+    <string name="correocomonuevo">comonuevoapp@gmail.com</string>
+    <string name="Mensajepago">Realizar los pagos es muy sencillo; recuerda tomar una captura del pago realizado donde se visualice el valor de la transacción, la hora y la fecha, y la referencia del pago para que tu publicación no sea rechazada.</string>
+    <string name="valordefinido"> </string>
+    <string name="valordefinidocomoNuevo"> </string>
+    <string name="stnequi">3138927155</string>
+    <string name="stdaviplata">3138927155</string>
+    <string name="stpaypal">guiaturisticaupallano@gmail.com</string>
+    <string name="textodestacarultimo">Cargue aquí la imagen del pago.</string>
+    <string name="textodestacarultimo2">Cargue aquí las imágenes para destacar.</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
+        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
+        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
+        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
+        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
+        convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
+        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
+        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
+        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
+        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+    </string>
+    <string name="title_activity_navigation_drawer">NavigationDrawerActivity</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="menu_agendar">Agendar Cita</string>
+    <string name="menu_historial">Historial Citas</string>
+    <string name="menu_micuenta">Mi Cuenta</string>
+    <string name="menu_politicas">Politicas Y Privacidad</string>
+    <string name="menu_cerrarSesion">Cerrar Sesion</string>
+
+
+</resources>
